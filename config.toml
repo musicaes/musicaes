@@ -4,7 +4,7 @@ theme = "hugo-swift-theme"
 
 DefaultContentLanguage = "es"
 #themesDir = "../.."
-author = "Steve Francia"
+author = ""
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 canonifyurls = true
 paginate = 4
@@ -30,3 +30,5 @@ pygmentsCodefencesGuessSyntax = true
 #   [Params.staticman.reCaptcha]
 #     siteKey = ""  # Use your own site key, you need to apply for one on Google
 #     secret  = ""  # ENCRYPT your password by going to https://<staticman-endpoint>/v3/encrypt/<your-site-secret>
+
+

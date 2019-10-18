@@ -1,10 +1,10 @@
-- item: About
-  url: about/
+- item: Quienes somos
+  url: "about/"
 - item: Blog
-  url: ""
-- item: Category A
-  url: categories/development/
-- item: Category B
-  url: categories/golang/
-- item: Tag B
-  url: tags/go/
+  url: "/"
+  #- item: Category A
+  #url: categories/development/
+  #- item: Category B
+  #url: categories/golang/
+  #- item: Tag B
+  #url: tags/go/

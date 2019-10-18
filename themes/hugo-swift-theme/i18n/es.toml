@@ -62,7 +62,7 @@
 [errMsg]
   other = "Sorry, there was an error with the submission!"
 [moreFrom]
-  other = "Más de {{ .Count }}"
+  other = "Más {{ .Count }}"
 [discard]
   other = "discard"
 [discardComment]
